@@ -24,3 +24,5 @@ User Guide
 - Set `file_dir` to point to directory containing JSON formatted tweets
 - Set date range by adjusting`date_min` and `date_max`
 - Run using `python delete_tweets.py`
+
+#Quick note: Running this through Windows Console programs (Powershell, CMD, etc.), causes an encoding error. In order to combat this, run through a shell within in IDE or through IDLE itself.
